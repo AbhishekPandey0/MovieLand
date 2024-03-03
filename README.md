@@ -1,2 +1,2 @@
 # MovieLand
-A React based Movie streaming platform
+A React & JavaScript based Movie streaming platform
